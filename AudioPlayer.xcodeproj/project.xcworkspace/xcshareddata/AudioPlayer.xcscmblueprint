@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "96D20233FE9B64F5FC9111BB836678C21242A776",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "96D20233FE9B64F5FC9111BB836678C21242A776" : 9223372036854775807,
+    "9FACC8D3ACE1C59C81CC57E1908DF2CE3C899B4F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5856474D-AE5E-4CE6-A196-02D76CBC1640",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "96D20233FE9B64F5FC9111BB836678C21242A776" : "AudioPlayer\/",
+    "9FACC8D3ACE1C59C81CC57E1908DF2CE3C899B4F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AudioPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AudioPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/czqasn\/AudioQueue.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96D20233FE9B64F5FC9111BB836678C21242A776"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/czqasngit\/drawandaudioqueuetool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FACC8D3ACE1C59C81CC57E1908DF2CE3C899B4F"
+    }
+  ]
+}
