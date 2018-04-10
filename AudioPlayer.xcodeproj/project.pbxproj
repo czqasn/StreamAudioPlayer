@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C31B02FA1F53C8BD00CC4885 /* t6.aac in Resources */ = {isa = PBXBuildFile; fileRef = C31B02F91F53C8BD00CC4885 /* t6.aac */; };
 		C31B03011F53EB9000CC4885 /* MSLocalFileAVIODataProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = C31B03001F53EB9000CC4885 /* MSLocalFileAVIODataProvider.m */; };
-		C34487901F4ECC87000B798B /* t3.flac in Resources */ = {isa = PBXBuildFile; fileRef = C344878F1F4ECB94000B798B /* t3.flac */; };
 		C344888E1F4ED845000B798B /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C34488871F4ED845000B798B /* libavcodec.a */; };
 		C344888F1F4ED845000B798B /* libavdevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C34488881F4ED845000B798B /* libavdevice.a */; };
 		C34488901F4ED845000B798B /* libavfilter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C34488891F4ED845000B798B /* libavfilter.a */; };
@@ -27,7 +25,6 @@
 		C355E0041F3BF75E001B5DD0 /* MSAudioPlayer.mm in Sources */ = {isa = PBXBuildFile; fileRef = C355DFFE1F3BF75E001B5DD0 /* MSAudioPlayer.mm */; };
 		C355E0051F3BF75E001B5DD0 /* MSAudioQueueManager.mm in Sources */ = {isa = PBXBuildFile; fileRef = C355E0001F3BF75E001B5DD0 /* MSAudioQueueManager.mm */; };
 		C355E0081F3BF9D3001B5DD0 /* MSAudioInfomation.m in Sources */ = {isa = PBXBuildFile; fileRef = C355E0071F3BF9D3001B5DD0 /* MSAudioInfomation.m */; };
-		C36D77EE1F5004DB00E4AC97 /* t4.flac in Resources */ = {isa = PBXBuildFile; fileRef = C36D77ED1F5004DB00E4AC97 /* t4.flac */; };
 		C3756AE01F4FC3230095FE41 /* MSAudioFFMpegDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = C3756ADF1F4FC3230095FE41 /* MSAudioFFMpegDecoder.m */; };
 		C3B357111F3AF53A002A9774 /* libstdc++.6.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B357101F3AF53A002A9774 /* libstdc++.6.tbd */; };
 		C3B7B8091F3444F100E42654 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C3B7B8081F3444F100E42654 /* main.m */; };
@@ -40,11 +37,9 @@
 
 /* Begin PBXFileReference section */
 		0AA2A242710E703CE8474800 /* libPods-AudioPlayer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AudioPlayer.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C31B02F91F53C8BD00CC4885 /* t6.aac */ = {isa = PBXFileReference; lastKnownFileType = file; path = t6.aac; sourceTree = "<group>"; };
 		C31B02FE1F53E97800CC4885 /* MSAVIODataProvider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSAVIODataProvider.h; sourceTree = "<group>"; };
 		C31B02FF1F53EB9000CC4885 /* MSLocalFileAVIODataProvider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSLocalFileAVIODataProvider.h; sourceTree = "<group>"; };
 		C31B03001F53EB9000CC4885 /* MSLocalFileAVIODataProvider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSLocalFileAVIODataProvider.m; sourceTree = "<group>"; };
-		C344878F1F4ECB94000B798B /* t3.flac */ = {isa = PBXFileReference; lastKnownFileType = file; path = t3.flac; sourceTree = "<group>"; };
 		C34488161F4ED845000B798B /* avcodec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = avcodec.h; sourceTree = "<group>"; };
 		C34488171F4ED845000B798B /* avdct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = avdct.h; sourceTree = "<group>"; };
 		C34488181F4ED845000B798B /* avfft.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = avfft.h; sourceTree = "<group>"; };
@@ -177,7 +172,6 @@
 		C355E0011F3BF75E001B5DD0 /* MSDefs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSDefs.h; sourceTree = "<group>"; };
 		C355E0061F3BF9D3001B5DD0 /* MSAudioInfomation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSAudioInfomation.h; sourceTree = "<group>"; };
 		C355E0071F3BF9D3001B5DD0 /* MSAudioInfomation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSAudioInfomation.m; sourceTree = "<group>"; };
-		C36D77ED1F5004DB00E4AC97 /* t4.flac */ = {isa = PBXFileReference; lastKnownFileType = file; path = t4.flac; sourceTree = "<group>"; };
 		C3756ADE1F4FC3230095FE41 /* MSAudioFFMpegDecoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSAudioFFMpegDecoder.h; sourceTree = "<group>"; };
 		C3756ADF1F4FC3230095FE41 /* MSAudioFFMpegDecoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSAudioFFMpegDecoder.m; sourceTree = "<group>"; };
 		C3B3570E1F3AF3BD002A9774 /* libstdc++.6.0.9.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.0.9.tbd"; path = "usr/lib/libstdc++.6.0.9.tbd"; sourceTree = SDKROOT; };
@@ -431,9 +425,6 @@
 		C355DFF21F3BF74C001B5DD0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				C31B02F91F53C8BD00CC4885 /* t6.aac */,
-				C36D77ED1F5004DB00E4AC97 /* t4.flac */,
-				C344878F1F4ECB94000B798B /* t3.flac */,
 				C355DFF31F3BF74C001B5DD0 /* t2.mp3 */,
 			);
 			path = Resources;
@@ -587,9 +578,6 @@
 			files = (
 				C3B7B8171F3444F100E42654 /* LaunchScreen.storyboard in Resources */,
 				C3B7B8141F3444F100E42654 /* Assets.xcassets in Resources */,
-				C31B02FA1F53C8BD00CC4885 /* t6.aac in Resources */,
-				C34487901F4ECC87000B798B /* t3.flac in Resources */,
-				C36D77EE1F5004DB00E4AC97 /* t4.flac in Resources */,
 				C355DFF71F3BF74C001B5DD0 /* t2.mp3 in Resources */,
 				C3B7B8121F3444F100E42654 /* Main.storyboard in Resources */,
 			);
